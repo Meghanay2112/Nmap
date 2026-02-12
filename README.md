@@ -80,5 +80,5 @@ This task helped me understand how to perform network reconnaissance using Nmap,
 
 ## 📁 Files Included
 - scan_results.txt
-
+- screenshots 
 
